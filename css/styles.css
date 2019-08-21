@@ -13,6 +13,11 @@ h1 {
 	font-size:55px;
 }
 
+h4 {
+	color: #E56B70;
+	font-size:30px;
+}
+
 h3 {
 	font-family: 'Anonymous Pro', monospace;
 	color: #2CA58D;
@@ -28,4 +33,22 @@ a:hover {
   color: #2CA58D;
   text-decoration: underline;
   text-decoration-color: #2CA58D;
+}
+
+li {
+	color: #84BC9C;
+}
+
+li > span {
+	color: white;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
 }
