@@ -40,7 +40,7 @@ a:hover {
 }
 
 li {
-	color: #84BC9C;
+  color: #84BC9C;
 }
 
 li > span {
@@ -48,6 +48,9 @@ li > span {
 }
 
 .btn-circle {
+  color: #0A2342;
+  background-color: #2CA58D;
+  border-color: #2CA58D;
   width: 30px;
   height: 30px;
   text-align: center;
