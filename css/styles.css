@@ -25,14 +25,18 @@ h3 {
 
 a {
   color: white;
-  text-decoration: underline;
-  text-decoration-color: #2CA58D;
+  text-decoration: none;
+  border-color: #2CA58D;
+  border-width: 0px 0px 1px 0px;
+  border-style: none none solid none;
 }
 
 a:hover {
   color: #2CA58D;
-  text-decoration: underline;
-  text-decoration-color: #2CA58D;
+  text-decoration: none;
+  border-color: #2CA58D;
+  border-width: 0px 0px 1px 0px;
+  border-style: none none solid none;
 }
 
 li {
