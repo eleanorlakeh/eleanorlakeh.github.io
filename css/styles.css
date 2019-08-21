@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abril&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Abril|Anonymous+Pro');
 
 body {
 	font-family: 'Anonymous Pro', monospace;
@@ -22,14 +20,15 @@ h3 {
 a {
   color: white;
   text-decoration: underline;
-  text-decoration-color: #E56B70;
+  text-decoration-color: #2CA58D;
 }
 
 a:hover {
-  color: #E56B70;
+  color: #2CA58D;
   text-decoration: underline;
-  text-decoration-color: #E56B70;
+  text-decoration-color: #2CA58D;
 }
+
 
 li {
 	color: #84BC9C;
