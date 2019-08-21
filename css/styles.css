@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Abril&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+body {
+	font-family: 'Anonymous Pro', monospace;
+	color: white;
+	background-color: #0A2342;
+}
+
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	color: #E56B70;
+	font-size:50px;
+}
+
+h3 {
+	font-family: 'Anonymous Pro', monospace;
+	color: #2CA58D;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: #E56B70;
+}
+
+a:hover {
+  color: #E56B70;
+  text-decoration: underline;
+  text-decoration-color: #E56B70;
+}
+
+li {
+	color: #84BC9C;
+}
+
+li > span {
+	color: white;
+}
